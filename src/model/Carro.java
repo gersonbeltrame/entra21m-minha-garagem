@@ -164,6 +164,12 @@ public class Carro {
     public void setPermitidaCirculacao(boolean permitidaCirculacao) {
         this.permitidaCirculacao = permitidaCirculacao;
     }
+
+    public boolean setEstaFuncional() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+  
     
     
     
